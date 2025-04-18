@@ -49,8 +49,5 @@ STEP 6: Use zscore of to remove outliers
 ![Screenshot 2025-04-18 092920](https://github.com/user-attachments/assets/362d598f-86fd-4db8-a700-1c1e25823866)
 
 
-
-
-
 # Result
-          <<include your Result here>>
+Thus we have cleaned the data and removed the outliers by detection using IQR and Z-Score
